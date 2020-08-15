@@ -10,7 +10,7 @@ body {
   }
 
   .main-block{
-      background-color: #000000;
+      background-color:rgba(00,00,00,.7);
       color: white;
       filter: drop-shadow(5px 5px 4px #000);
   }
