@@ -1,3 +1,2 @@
 # Bio
-Bio website
-:)
+This is the codebase for my personal website.
